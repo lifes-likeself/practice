@@ -1,1 +1,2 @@
-sfdsf
+def korea():
+    print('koreakorea')
